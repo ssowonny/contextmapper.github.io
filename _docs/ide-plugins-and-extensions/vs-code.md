@@ -19,7 +19,7 @@ You find our Context Mapper VS Code extension in the VS Code marketplace:
 ### You did not find a Context Mapper feature in VS code?
 We only recently released Context Mapper for VS code and not all features are already supported. You find a feature table [here](/docs/ide/). We work on the extension continuously and hope to support all features soon.
 
-### The graphical Context Map generator in VS cCde has not the same input parameters as in Eclipse (dialog). Why?
+### The graphical Context Map generator in VS code has not the same input parameters as in Eclipse (dialog). Why?
 With our new VS Code extension we try to reduce user input for commands to a minimum, so that you don't have to parameterize each time you generate. You can still configure the parameters, but in the settings of the VS code extension. Open the settings (Ctrl+Shift+P -> search for "Open Settings (UI)") and search then open "Extensions -> Context Mapper":
 
 <a target="_blank" href="/img/vs-code-context-mapper-settings.png">![Context Mapper Settings in VS Code](/img/vs-code-context-mapper-settings.png)</a>
